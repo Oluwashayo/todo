@@ -1,6 +1,6 @@
 # todo
 
-A new Flutter project.
+A todo app using Hive to save data on the local storage
 
 ## Getting Started
 
